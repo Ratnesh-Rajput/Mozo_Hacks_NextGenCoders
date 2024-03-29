@@ -43,15 +43,6 @@ AgriCare's advanced AI technology kicks into action. The uploaded image is proce
 AgriCare provides you with comprehensive insights. It not only identifies the specific disease affecting your plant but also offers a detailed description of the plant, the disease itself, and recommends effective remedies.
 
 ## Technologies Behind AgriCare
-- ### IoT Development:   
-  - **ThingSpeak**
-    - **Link**: [ThingSpeak Website](https://thingspeak.com/channels/2473517)
-      
-   ![Screenshot 2024-03-17 083324](https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/002666dc-53c4-4faa-b7b5-96b93eb3ecac)  
-  - **Tinkercad**
-    - **Link**: [Tinkercad Website](https://www.tinkercad.com/things/a6659yNWlDT-farmvision-hack-hive)
-      
-      <img src="https://github.com/rahulkarda/hackhive_nextgencoders/assets/114336304/098700d2-58bd-4dcb-88b2-a7b5739d0dbd" width="600px"></img>
 - ### Disease Prediction:   
   | Name        |    Link                                                    |
   |-------------|--------------------------------------------------------|
